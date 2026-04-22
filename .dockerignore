@@ -1,5 +1,9 @@
 .git
+.github
 .idea
 *.iml
 target
 HELP.md
+.env
+.env.*
+!.env.example
